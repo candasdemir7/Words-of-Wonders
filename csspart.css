@@ -1,0 +1,257 @@
+body{
+    background-color: black;
+    font-family:'Comic Sans MS', serif;
+    font-style:normal;
+    font-weight: bold;
+}
+
+
+#background{
+    display: flex;
+    flex-direction: column;
+    background-image: url("./walpaper.JPG");
+    margin:auto;
+    background-repeat: round;
+    width:600px;
+    height:1000px;
+}
+
+#anakısım{
+    background-color: white;
+    width: 600px;
+    height:750px;
+    border:3px solid black;
+    display: flex;
+    margin: auto;
+}
+
+#başlık{
+    width: 500px;
+    height: 40px;
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 3px 2px 1px #000;
+}
+
+#kutular{
+    margin: auto;
+    margin-top: 15px;
+    margin-left: 80px;
+    font-size: 50px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction:column;
+}
+#bir,#iki,#üç,#dört, #beş, #altı{
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    margin-top: 2px;
+    height: 80px;
+}
+
+#bir div{
+    display: flex;
+    margin-left: 2px;
+    border-radius: 10px;
+    flex-direction: row;
+    background-color: white;
+    width: 81px;
+
+}
+
+#iki div{
+    display: flex;
+    margin-left: 2px;
+    border-radius: 10px;
+    flex-direction: row;
+    background-color: white;
+    width: 81px;
+
+}
+
+#üç div{
+    display: flex;
+    margin-left: 2px;
+    border-radius: 10px;
+    flex-direction: row;
+    background-color: white;
+    width: 81px;
+
+}
+
+#dört div{
+    display: flex;
+    margin-left: 2px;
+    border-radius: 10px;
+    flex-direction: row;
+    background-color: white;
+    width: 81px;
+
+}
+
+#beş div{
+    display: flex;
+    margin-left: 2px;
+    border-radius: 10px;
+    flex-direction: row;
+    background-color: white;
+    width: 81px;
+
+}
+
+#altı div{
+    display: flex;
+    margin-left: 2px;
+    border-radius: 10px;
+    flex-direction: row;
+    background-color: white;
+    width: 81px;
+
+
+}
+
+div p{
+    padding-left: 25px;
+    margin-top: 10px;
+    opacity: 0.5;
+    display: none;
+}
+
+.blank{
+    opacity: 0;
+}
+
+
+#altkısım{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 470px;
+}
+
+#ipucu{
+     display: flex;
+     flex-direction: row;
+     height: 55px;
+     justify-content:space-around;
+}
+
+#ipucu img{
+    width: 60px;
+    margin-left: 400px;
+    border-radius: 60px;
+    opacity: 0.9;
+    position:absolute;
+}
+
+#widget{
+    display:flex;
+    flex-direction: row;
+    height: 350px;
+}
+
+#circle{
+    margin: auto;
+    border-radius: 300px;
+    background-color:rgb(211, 207, 207);
+    opacity: 0.85;
+    height:300px;
+    width: 300px;
+}
+
+#circle div{
+    display: flex;
+    height: 100px;
+}
+
+#r1 div{
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 80px;
+}
+
+#r2{
+    display: flexbox;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#r2 div{
+    margin-top: -15px;
+    width: 65px;
+    height: 65px;
+    border-radius: 75px;
+   
+}
+
+#r2 div:first-of-type{
+    margin-left: 5px;
+}
+
+#r2 div:last-of-type{
+    margin-right: 5px;
+}
+
+#r2 div:nth-of-type(2){
+    margin-top: 13px;
+    margin: auto;
+  
+}
+
+#r2 div:nth-of-type(2) img{
+    opacity: 0.5;
+    position: relative;
+}
+
+#r3{
+    display: flexbox;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+#r3 div{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+}
+
+#r3 div:nth-of-type(1){
+    margin-left: 10px;
+}
+
+#r3 div:nth-of-type(2){
+    margin-right: 10px;
+}
+
+#a1,#a2,#a3,#a4,#a5{
+    justify-content: center;
+    flex-direction: row;
+    position: relative;
+    display: flex;
+}
+
+div p{
+    position: relative;
+    margin-top: 4px;
+}
+
+#container{
+    text-align: center;
+    font-size: 25px;
+    height: 40px;
+    color: rgb(21, 5, 5);
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+    border-radius: 20px;
+    position: relative;
+}
