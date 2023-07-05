@@ -7,4 +7,7 @@ By clicking the mouse letter button, a letter is selected, and appended to the c
 The selected letter is highlighted and cannot be selected again. 
 In the middle of the widget, an shuffle icon is shown. If you click on it, it shuffles the leGers. 
 After starting a word, you cannot shuffle the leGers. If you enter a word in the solution, it shows in the puzzle part.
+
+
+
 <img width="396" alt="Words of Wonders" src="https://github.com/CanDasdemir7/Words-of-Wonders/assets/136342934/31b12fbe-7ecf-4990-9692-c63d621eb42d">
