@@ -10,4 +10,5 @@ After starting a word, you cannot shuffle the leGers. If you enter a word in the
 
 
 
-<img width="396" alt="Words of Wonders" src="https://github.com/CanDasdemir7/Words-of-Wonders/assets/136342934/31b12fbe-7ecf-4990-9692-c63d621eb42d">
+<img width="396" alt="Words of Wonders" src="https://github.com/CanDasdemir7/Words-of-Wonders/assets/136342934/ef3179ab-862b-4607-85a2-657b0a7a147f">
+
